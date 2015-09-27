@@ -6,8 +6,8 @@
 
 
 	public class Eye extends MovieClip {
-	//	var speed:Number;
-	//	var moveToPos:Boolean = false;
+		var speed:Number;
+		var moveToPos:Boolean = false;
 		var xToMove:Number;
 		var yToMove:Number;
 
